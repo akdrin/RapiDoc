@@ -1,2 +1,2 @@
 # RapiDoc
-An healthcare website
+Healthcare website
